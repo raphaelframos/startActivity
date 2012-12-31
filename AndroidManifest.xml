@@ -21,6 +21,9 @@
             </intent-filter>
         </activity>
         <activity android:name="TelaStartActivity"></activity>
+        <activity android:name="TelaUm"></activity>
+        <activity android:name="TelaDois"></activity>
+        <activity android:name="TelaTres"></activity>
     </application>
 
 </manifest>
