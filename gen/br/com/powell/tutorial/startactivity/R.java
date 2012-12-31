@@ -41,6 +41,7 @@ public final class R {
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+        public static final int digite_numero=0x7f050007;
         public static final int hello_world=0x7f050001;
         public static final int menu_settings=0x7f050002;
         public static final int resultado_start_activity=0x7f050005;

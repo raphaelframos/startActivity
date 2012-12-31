@@ -5,6 +5,7 @@
     android:orientation="vertical" >
 
     <EditText
+        android:hint="@string/digite_numero"
         android:id="@+id/editText1"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
