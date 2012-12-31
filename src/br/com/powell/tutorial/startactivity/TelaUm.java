@@ -66,10 +66,14 @@ public class TelaUm extends Activity {
 		});
     }
 	
+	
+	//Método de retorno do método startActivityForResult
 	@Override
 	public void onActivityResult(int requestCode, int resultCode, Intent data){
 		
+		//Código enviado
 		if(TELA_1 == requestCode){
+			//Código resultado
 			if(resultCode == RESULT_OK){
 				finish();
 				Log.d(TAG, "Resultado da tela dois");
